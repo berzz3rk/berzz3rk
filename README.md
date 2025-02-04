@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @berzz3rk
-- 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning Python, SQL and Data Science Concepts
+- 👀 I’m interested in Software Engineering
+- 🌱 Currently working as a Data Analyst
